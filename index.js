@@ -86,3 +86,18 @@ var finances = [
 ['Jan-2017', 138230],
 ['Feb-2017', 671099]
 ];
+
+
+
+
+// Number of Months 
+ const numberOfMonths = finances.length
+
+
+
+
+
+
+
+
+
