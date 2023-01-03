@@ -101,11 +101,16 @@ let total = 0;
 
 // For loop to caculate Total 
 for(let i = 0 ; i < finances.length ; i++){
-
-    total += finances[i][1];
+     total += (finances[i][1]);
 }
 
 
 
 
 
+console.log(`
+Financial Analysis
+---------------------
+Total Months: ${numberOfMonths}
+Total: $${total}
+`)
