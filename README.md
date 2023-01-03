@@ -1,2 +1,2 @@
-# edx-js-console-app
+# edx-Console-Finances
 JS Console App
