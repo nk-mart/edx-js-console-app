@@ -91,11 +91,19 @@ var finances = [
 
 
 // Number of Months 
- const numberOfMonths = finances.length
+ const numberOfMonths = finances.length;
+
+
+//Variable for Total
+let total = 0; 
 
 
 
+// For loop to caculate Total 
+for(let i = 0 ; i < finances.length ; i++){
 
+    total += finances[i][1];
+}
 
 
 
